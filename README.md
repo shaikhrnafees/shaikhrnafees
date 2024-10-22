@@ -2,7 +2,7 @@
 <h1 align="center">Hello!, I'm Nafees Shaikh</h1>
 <h3 align="center">Data Analyst, Data Scientist, and Machine Learning Engineer.</h3>
 
-<img align="right" alt="coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/shaikhrnafees/shaikhrnafees/blob/main/hhfhwf.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhrnafees&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhrnafees" /> </p>
 
