@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nafees Shaikh</h1>
+![logo](https://github.com/shaikhrnafees/shaikhrnafees/blob/main/banner.png)
+<h1 align="center">Hello!, I'm Nafees Shaikh</h1>
 <h3 align="center">Data Analyst, Data Scientist, and Machine Learning Engineer.</h3>
 
 <img align="right" alt="coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif">
