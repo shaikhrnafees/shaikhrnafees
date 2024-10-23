@@ -21,8 +21,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/shaikhrnafees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikhrnafees" height="30" width="40" /></a>
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="nafeesrshaikh" height="30" width="40" style="margin-left: 10px; margin-right: 10px;" /></a>
-    <a href="https://shaikhrnafees.github.io/ShaikhrNafees.io/" target="blank"><img align="center" src="https://i.pinimg.com/736x/fd/71/cc/fd71cc920df96dfb498587b177d3c658.jpg" alt="nafeesrshaikh" height="30" width="40" style="margin-left: 10px; margin-right: 10px;" /></a>
+    <span style="display: inline-block; width: 3cm;"></span>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="nafeesrshaikh" height="30" width="40" /></a>
+    <span style="display: inline-block; width: 3cm;"></span>
+    <a href="https://shaikhrnafees.github.io/ShaikhrNafees.io/" target="blank"><img align="center" src="https://i.pinimg.com/736x/fd/71/cc/fd71cc920df96dfb498587b177d3c658.jpg" alt="nafeesrshaikh" height="30" width="40" /></a>
+    <span style="display: inline-block; width: 3cm;"></span>
     <a href="https://www.hackerrank.com/nafeesrshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nafeesrshaikh" height="30" width="40" /></a>
 </p>
 
@@ -57,6 +60,7 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://preview.redd.it/c6h7rok9c2v31.jpg?width=640&crop=smart&auto=webp&s=c72a1ce43994388372777a35c661aa1a5e83fa06" alt="pandas" width="40" height="40" style="margin-right: 10px;">
     </a>
+    <span style="display: inline-block; width: 3cm;"></span>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="40" height="40" style="margin-right: 10px;">
     </a>
