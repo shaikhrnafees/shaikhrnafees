@@ -5,7 +5,7 @@
 
 <div style="display: flex; align-items: flex-start;">
     <div style="width: 50%;">
-        <h3 align="left">Introduction:</h3>
+        <h3 align="left"></h3>
         <p align="justify">
             As an aspiring Data Scientist and Machine Learning Engineer, I am passionate about harnessing the power of data to drive meaningful insights and solutions. Proficient in Python and SQL, I excel at analyzing complex datasets and translating them into actionable strategies. My strong analytical and problem-solving abilities, coupled with expertise in libraries such as Pandas, NumPy, and Scikit-learn, enable me to tackle real-world challenges effectively. With a solid foundation in statistical analysis and predictive modeling, I am committed to contributing to data-driven initiatives that enhance decision-making across various industries.
         </p>
